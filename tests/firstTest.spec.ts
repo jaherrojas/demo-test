@@ -52,3 +52,5 @@ test('locator syntax rules', async ({page})=> {
       //***.FILTER una forma de encontrar el objeto mas facilmente si este SE ENCUENTRA con muchas similitudes. // PARENT ELEMENTS
 
 })
+
+//ESTA ES UNA PRUEBA
