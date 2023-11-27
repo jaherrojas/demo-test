@@ -1,0 +1,22 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://qa.silin.com.co",
+      "localStorage": [
+        {
+          "name": "isAuthenticated",
+          "value": "true"
+        },
+        {
+          "name": "auth",
+          "value": "{\"access_token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbnRpdHlfaWQiOnsiaWQiOiI5ZGY4YjQ2Zi1iMmJmLTQ4NTEtYjk5YS1jNDM1MzU2MDA0YjAiLCJuYW1lIjoiR29iZXJuYWNpw7NuIGRlbCBWYWxsZSBkZWwgQ2F1Y2EifSwiZXhwIjoxNzAxMTE5NjcyLCJmaXJzdF9uYW1lIjoiSmlra28iLCJsYXN0X25hbWUiOiJVc3VhcmlvIiwicGVyc29uYWxfZGF0YSI6IntcImF0dGVtcHRzXCI6MCxcInBpY3R1cmVcIjpcImh0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9zaWxpbi1iYWNrZW5kLWRldi9hdXRoL3VzZXJzL2JjZWQxNDcwLTYwNjUtNDFhNC1iNjRjLTI4ZDBkODI3YWJiYi4yMDIxLTExLTA0XzIxLTI2LTEwLnBuZ1wifSIsInJvbGVfaWQiOnsiaWQiOiJzdXBlci11c2VyIiwibmFtZSI6IlN1cGVyIFVzdWFyaW8ifSwic3RhdHVzIjoiZW5hYmxlIiwidXNlcl9pZCI6ImJjZWQxNDcwLTYwNjUtNDFhNC1iNjRjLTI4ZDBkODI3YWJiYiJ9.MfoL6L1AoTO6FvD5lGfgjRPKUQwCaAYgIB4Z-PAftJQ\",\"refresh_token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDE3MTcyNzIsInJlZnJlc2hfdXVpZCI6IjRjMGVlMWI1LTk5NzAtNDAwMC05YTcxLWMwMjRlNmU1ZWVlNCsrYmNlZDE0NzAtNjA2NS00MWE0LWI2NGMtMjhkMGQ4MjdhYmJiIiwidXNlcl9pZCI6ImJjZWQxNDcwLTYwNjUtNDFhNC1iNjRjLTI4ZDBkODI3YWJiYiJ9.ox6mtglLg6SPiFf8eMHmrkCh06MO8G9N27lKcdN4dYU\",\"user\":{\"entity_id\":{\"id\":\"9df8b46f-b2bf-4851-b99a-c435356004b0\",\"name\":\"Gobernación del Valle del Cauca\"},\"exp\":1701119672,\"first_name\":\"Jikko\",\"last_name\":\"Usuario\",\"personal_data\":\"{\\\"attempts\\\":0,\\\"picture\\\":\\\"https://s3.amazonaws.com/silin-backend-dev/auth/users/bced1470-6065-41a4-b64c-28d0d827abbb.2021-11-04_21-26-10.png\\\"}\",\"role_id\":{\"id\":\"super-user\",\"name\":\"Super Usuario\"},\"status\":\"enable\",\"user_id\":\"bced1470-6065-41a4-b64c-28d0d827abbb\"}}"
+        },
+        {
+          "name": "_expiredTime",
+          "value": "1701113075188"
+        }
+      ]
+    }
+  ]
+}
