@@ -33,9 +33,7 @@ test.beforeEach(async({ page }) =>{
 //   await page.locator('#edit-contact-address-2').fill('NO SE MAS')
 //   await page.getByRole('textbox',{name: 'City'}).fill('Ibague')
 //   await page.getByRole('combobox',{name: 'state'}).click();
-
 // })
-
 
 //CHILD ELEMENTS 
 
